@@ -52,3 +52,8 @@ pip install -r requirements.txt
 **Run the analysis:**
     * Open the main notebook: `[Project_Notebook_Name.ipynb]`
     * Start Jupyter: `jupyter notebook`
+
+---
+## Visualisations
+present in images folder
+
